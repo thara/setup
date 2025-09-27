@@ -3,7 +3,7 @@ name: macOS
 on: [push]
 
 jobs:
-  build:
+  setup:
     runs-on: macos-latest
     timeout-minutes: 10
     permissions: {}
