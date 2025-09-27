@@ -3,8 +3,7 @@ brew "vim"  # https://www.vim.org/
 brew "bash"             # https://www.gnu.org/software/bash/bash.html
 brew "bash-completion"  # https://salsa.debian.org/debian/bash-completion
 
-brew "rename"     # http://plasmasturm.org/code/rename
-brew "tree"       # https://github.com/Old-Man-Programmer/tree
+brew "stow"       # https://www.gnu.org/software/time/
 brew "wget"       # https://www.gnu.org/software/wget/wget.html
 brew "eza"        # https://github.com/eza-community/eza
 brew "fd"         # https://github.com/sharkdp/fd
@@ -15,6 +14,8 @@ brew "bat"        # https://github.com/sharkdp/bat
 brew "fpp"        # https://github.com/facebook/PathPicker
 brew "ghq"        # https://github.com/x-motemen/ghq
 brew "fzf"        # https://github.com/junegunn/fzf
+brew "rename"     # http://plasmasturm.org/code/rename
+brew "tree"       # https://github.com/Old-Man-Programmer/tree
 brew "starship"   # https://github.com/starship/starship
 brew "rlwrap"     # https://github.com/hanslub42/rlwrap
 brew "coreutils"  # https://www.gnu.org/software/coreutils/
