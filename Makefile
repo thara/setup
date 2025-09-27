@@ -4,3 +4,7 @@ SHELL := /bin/bash
 macos:
 	@./macos/install.sh
 
+ci_lint:
+	@actionlint
+	@pinact run --verify
+	@ghalint run
